@@ -2,6 +2,8 @@
 
 Sistema de Chat IA escalável e dinâmico, construído com arquitetura de microserviços integrada em um Monorepo profissional. O projeto utiliza Next.js 16 para uma interface de alta performance e FastAPI como motor de processamento de linguagem natural.
 
+![Dashboard Preview](template.png)
+
 ![Next.js](https://img.shields.io/npm/v/next?style=for-the-badge&logo=next.js&logoColor=white&color=000000&label=next)
 ![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
 ![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4&label=tailwindcss)![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
@@ -11,6 +13,8 @@ Sistema de Chat IA escalável e dinâmico, construído com arquitetura de micros
 
 ![Github Repo Size](https://img.shields.io/github/repo-size/LeonardoFirme/chat_ia?style=for-the-badge&logo=github&color=000000)
 ![Github License](https://img.shields.io/github/license/LeonardoFirme/chat_ia?style=for-the-badge&logo=github&color=000000)
+
+![Dashboard Preview](page.png)
 
 ## 🚀 Tecnologias Core
 
