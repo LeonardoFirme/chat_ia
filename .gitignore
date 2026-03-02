@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+frontend/node_modules/
+
+# Ambiente Python (A origem dos 4k arquivos)
+venv/
+backend/venv/
+__pycache__/
+backend/__pycache__/
+*.pyc
+
+# Next.js & Builds
+.next/
+frontend/.next/
+out/
+build/
+
+# Segredos
+.env*
